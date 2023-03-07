@@ -1,4 +1,3 @@
-import Account from '@/components/account'
 import Head from 'next/head'
 
 export default function Home() {
@@ -13,7 +12,7 @@ export default function Home() {
       <main>
         <div className='text-2xl text-center font-bold uppercase'>Cors Banking</div>
         <div>
-          <Account/>
+          
         </div>
       </main>
     </>
